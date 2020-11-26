@@ -1,3 +1,5 @@
+Co-founder da Ípsillon!
+Insatisfeito e inquieto, sempre aprendendo, as vezes ensinando um pouco do que aprendeu!
 ### E aí 👋
 
 <!--
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandofagonde/)](https://www.linkedin.com/in/fernandofagonde/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fernandofagonde)](https://twitter.com/fernandofagonde)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/fernandofagonde)](https://t.me/fernandofagonde)
+
