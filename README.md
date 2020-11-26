@@ -1,6 +1,12 @@
-Co-founder da Ípsillon!
-Insatisfeito e inquieto, sempre aprendendo, as vezes ensinando um pouco do que aprendeu!
 ### E aí 👋
+
+Co-founder da Ípsillon!
+
+- Insatisfeito com o status quo
+- Inquieto
+- Sempre aprendendo, as vezes ensinando um pouco do que aprendeu!
+
+
 
 <!--
 **fernandofagonde/fernandofagonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
