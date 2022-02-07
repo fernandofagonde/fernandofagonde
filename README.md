@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandofagonde&show_icons=true&theme=radical)
 ### E aí 👋
 
 Co-founder da Ípsillon!
